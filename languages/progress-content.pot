@@ -1,0 +1,91 @@
+# Copyright (C) 2024 Rémi DUPLE
+# This file is distributed under the GPL v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Progress Content 1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/progress-content\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-09-15T20:03:20+02:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: progress-content\n"
+
+#. Plugin Name of the plugin
+#: progress-content.php
+msgid "Progress Content"
+msgstr ""
+
+#. Description of the plugin
+#: progress-content.php
+msgid "Add a progress bar on the top of each posts/pages/custom content"
+msgstr ""
+
+#. Author of the plugin
+#: progress-content.php
+msgid "Rémi DUPLE"
+msgstr ""
+
+#. Author URI of the plugin
+#: progress-content.php
+msgid "https://lesvlogsdundev.com/"
+msgstr ""
+
+#: pages/admin.php:5
+msgid "Progress Bar configuration"
+msgstr ""
+
+#: pages/admin.php:6
+msgid "Welcome on the configuration page of your progress bar, you can personalize some specs of the bar, and decide where to show the progress bar."
+msgstr ""
+
+#: pages/admin.php:7
+msgid "Personalization"
+msgstr ""
+
+#: pages/admin.php:11
+msgid "Height of the bar"
+msgstr ""
+
+#: pages/admin.php:17
+msgid "Color of the bar"
+msgstr ""
+
+#: pages/admin.php:23
+msgid "Style of the bar"
+msgstr ""
+
+#: pages/admin.php:36
+msgid "Post type enabled"
+msgstr ""
+
+#: pages/admin.php:38
+msgid "Where the progress bar is allowed to show ? (By default : only post)"
+msgstr ""
+
+#: pages/admin.php:54
+msgid "Save your preferences"
+msgstr ""
+
+#: pages/admin.php:56
+msgid "Preview"
+msgstr ""
+
+#: progress.class.php:62
+msgid "Default"
+msgstr ""
+
+#: progress.class.php:66
+msgid "Progress Modern"
+msgstr ""
+
+#: progress.class.php:70
+msgid "Progress shadowed"
+msgstr ""
+
+#: progress.class.php:93
+msgid "Configuration saved and applyed for all new visitors !"
+msgstr ""

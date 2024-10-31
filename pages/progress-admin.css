@@ -1,0 +1,45 @@
+label {
+    font-weight: bold;
+}
+.post_type {
+    display: flex;
+    gap: 10px;
+    margin: 0px;
+    align-items: center;
+}
+#demo_container {
+    max-width: 950px;
+    background-color: #f1f1f1;
+    min-height: 550px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;
+    border-radius: 10px;
+    overflow: hidden;
+    position: relative;
+}
+#demo_bar img {
+    width: 100%;
+
+}
+#bar_container {
+    position: relative;
+    display: block;
+    margin-top: -5px;
+}
+#__progress_bar {
+    position: absolute;
+    top: 0px;
+    width: 70%;
+    height: 4px;
+    background: red;
+}
+.btn-save {
+    max-width: 150px;
+}
+.progress-style-1 {
+    margin: 10px;
+    border-radius: 10px;
+    max-width: calc(100% - 20px);
+}
+.progress-style-2 {
+    box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
